@@ -1,3 +1,8 @@
+/*
+    Gelen Lopez Ruiz
+    Felipe Rivera 
+*/
+
 #include <stdio.h>
 
 int getInvertNumber(int number) {
